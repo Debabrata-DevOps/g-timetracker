@@ -18,7 +18,7 @@ Google Drive or SyncThing - G-TimeTracker can work with it. Just select a
 folder, that is synchronized by any of cloud storage systems and all data would
 automatically synchronize between your devices. 
 
-## License
+## License :
 G-TimeTracker is (C) 2015-2016 Nikita Krupenko <krnekit@gmail.com>
 and is available under the terms of the GPL version 3 (or any later version,
 at your option).  See LICENSE.txt for license details.
